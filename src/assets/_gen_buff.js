@@ -423,7 +423,7 @@ export default {
     
     "ElementalMastery": {
         name: "ElementalMastery",
-        nameLocale: 229,
+        nameLocale: 228,
         
         description: null,
         
@@ -508,7 +508,7 @@ export default {
     
     "BaseDmg": {
         name: "BaseDmg",
-        nameLocale: 461,
+        nameLocale: 460,
         
         description: 1607,
         
@@ -1829,7 +1829,7 @@ export default {
             
             {"default":1,"max":5,"min":1,"name":"refine","title":1384,"type":"intInput"},
             
-            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":617,"type":"float"},
+            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":616,"type":"float"},
             
         ],
     },
@@ -1865,7 +1865,7 @@ export default {
             
             {"default":1,"max":5,"min":1,"name":"refine","title":1384,"type":"intInput"},
             
-            {"default":900.0,"name":"em","title":228,"type":"floatInput"},
+            {"default":900.0,"name":"em","title":229,"type":"floatInput"},
             
         ],
     },
@@ -1884,7 +1884,7 @@ export default {
             
             {"default":1,"max":5,"min":1,"name":"refine","title":1384,"type":"intInput"},
             
-            {"default":900.0,"name":"em","title":228,"type":"floatInput"},
+            {"default":900.0,"name":"em","title":229,"type":"floatInput"},
             
         ],
     },
@@ -1935,7 +1935,7 @@ export default {
         genre: "Resonance",
         config: [
             
-            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":617,"type":"float"},
+            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":616,"type":"float"},
             
         ],
     },
@@ -1952,7 +1952,7 @@ export default {
         genre: "Resonance",
         config: [
             
-            {"default":1.0,"max":1.0,"min":0.0,"name":"rate1","title":745,"type":"float"},
+            {"default":1.0,"max":1.0,"min":0.0,"name":"rate1","title":746,"type":"float"},
             
             {"default":1.0,"max":1.0,"min":0.0,"name":"rate2","title":747,"type":"float"},
             
@@ -1986,7 +1986,7 @@ export default {
         genre: "Resonance",
         config: [
             
-            {"default":1.0,"max":1.0,"min":0.0,"name":"rate1","title":745,"type":"float"},
+            {"default":1.0,"max":1.0,"min":0.0,"name":"rate1","title":746,"type":"float"},
             
             {"default":1.0,"max":1.0,"min":0.0,"name":"rate2","title":747,"type":"float"},
             
@@ -2084,7 +2084,7 @@ export default {
         genre: "Artifact",
         config: [
             
-            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":617,"type":"float"},
+            {"default":1.0,"max":1.0,"min":0.0,"name":"rate","title":616,"type":"float"},
             
         ],
     },
